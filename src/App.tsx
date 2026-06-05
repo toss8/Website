@@ -43,8 +43,21 @@ function AppContent() {
             className="mb-4 h-20 w-auto object-contain mx-auto"
           />
           <p className="text-gray-500 text-sm">© 2026 Toss 8 Pakistan. All rights reserved.</p>
-          <div className="flex justify-center gap-6 mt-6">
+         <div className="flex justify-center gap-6 mt-6">
              <a href="https://www.instagram.com/toss8pakistan?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" className="text-gray-500 hover:text-white transition-colors">Instagram</a>
+          </div>
+          <div className="border-t border-white/5 pt-8 mt-8">
+            <p className="text-gray-500 text-xs tracking-widest uppercase">
+              Made by{' '}
+              <a 
+                href="https://www.linkedin.com/in/mahd-sadiq/" 
+                target="_blank" 
+                rel="noopener noreferrer"
+                className="text-primary hover:text-white transition-colors underline underline-offset-4 decoration-primary"
+              >
+                Madi
+              </a>
+            </p>
           </div>
         </div>
       </footer>
