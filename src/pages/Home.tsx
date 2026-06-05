@@ -150,19 +150,6 @@ const Home = () => {
                     <p className="text-white font-bold text-lg underline decoration-primary underline-offset-8">03111170558</p>
                 </div>
             </div>
-          <div className="border-t border-white/5 pt-8">
-                <p className="text-gray-500 text-xs tracking-widest uppercase">
-                    Made with ❤️ by{' '}
-                    <a 
-                        href="https://www.linkedin.com/in/mahd-sadiq/" 
-                        target="_blank" 
-                        rel="noopener noreferrer"
-                        className="text-primary hover:text-white transition-colors underline underline-offset-4 decoration-primary"
-                    >
-                        Madi
-                    </a>
-                </p>
-            </div>
           </div>
         </footer>
       </div>
