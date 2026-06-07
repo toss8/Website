@@ -75,7 +75,7 @@ const Home = () => {
                 <div className="absolute inset-0 bg-gradient-to-b from-transparent via-black/50 to-black z-10" />
                 <div className="absolute inset-0 flex items-center justify-center z-20">
                     <img 
-                        src="https://iqknvwaqtdmmtqipacmm.supabase.co/storage/v1/object/public/images/Banner.png" 
+                        src="https://iqknvwaqtdmmtqipacmm.supabase.co/storage/v1/object/public/images/Banner.webp" 
                         alt="Hero background" 
                         className="w-full h-full object-cover opacity-90"
                     />
