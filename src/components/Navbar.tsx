@@ -12,7 +12,7 @@ const Navbar = ({ onOpenCart }: { onOpenCart: () => void }) => {
         {/* Logo */}
       <Link to="/" className="hover:scale-105 transition-transform flex items-center">
         <img
-          src="https://iqknvwaqtdmmtqipacmm.supabase.co/storage/v1/object/public/images/Toss8%20Text.png"
+          src="https://res.cloudinary.com/dsjyjldau/image/upload/v1780947299/Toss8_Text_qsfylz.png"
           alt="Toss8"
           className="h-14 md:h-16 w-auto object-contain"
         />

@@ -18,7 +18,7 @@ export const MENU_ITEMS: MenuItem[] = [
     description: 'Tossed chicken with fries in a spicy chilli glaze.',
     price: 1050,
     category: 'Wok Tossed Chicken with Fries',
-    imageUrl: 'https://iqknvwaqtdmmtqipacmm.supabase.co/storage/v1/object/public/images/TOSS8%20Chilli%20Chicken%20And%20Fries%20(2).webp',
+    imageUrl: 'https://res.cloudinary.com/dsjyjldau/image/upload/v1780947095/TOSS8_Chilli_Chicken_And_Fries_2_lj9prl.webp',
     available: true,
     featured: true,
     formula: 'F-101'
@@ -29,7 +29,7 @@ export const MENU_ITEMS: MenuItem[] = [
     description: 'Chicken & fries coated in bold garlic sauce.',
     price: 1050,
     category: 'Wok Tossed Chicken with Fries',
-    imageUrl: 'https://iqknvwaqtdmmtqipacmm.supabase.co/storage/v1/object/public/images/Hot%20Garlic%20Chicken%20&%20Fries.webp',
+    imageUrl: 'https://res.cloudinary.com/dsjyjldau/image/upload/v1780947112/Hot_Garlic_Chicken_Fries_ymdsfu.webp',
     available: true,
     formula: 'F-102'
   },
@@ -39,7 +39,7 @@ export const MENU_ITEMS: MenuItem[] = [
     description: 'Sweet spicy chicken & fries with light crunch.',
     price: 1050,
     category: 'Wok Tossed Chicken with Fries',
-    imageUrl: 'https://iqknvwaqtdmmtqipacmm.supabase.co/storage/v1/object/public/images/Kung%20Pao%20Chicken%20&%20Fries.webp',
+    imageUrl: 'https://res.cloudinary.com/dsjyjldau/image/upload/v1780947106/Kung_Pao_Chicken_Fries_yix3xo.webp',
     available: true,
     formula: 'F-103'
   },
@@ -49,7 +49,7 @@ export const MENU_ITEMS: MenuItem[] = [
     description: 'Classic Manchurian chicken & fries.',
     price: 1050,
     category: 'Wok Tossed Chicken with Fries',
-    imageUrl: 'https://iqknvwaqtdmmtqipacmm.supabase.co/storage/v1/object/public/images/TOSS8%20MANCHURIAN%20chicken%20&%20fries.webp',
+    imageUrl: 'https://res.cloudinary.com/dsjyjldau/image/upload/v1780947093/TOSS8_MANCHURIAN_chicken_fries_dkngkh.webp',
     available: true,
     formula: 'F-104'
   },
@@ -59,7 +59,7 @@ export const MENU_ITEMS: MenuItem[] = [
     description: 'Crispy chicken & fries in creamy spicy sauce.',
     price: 1200,
     category: 'Wok Tossed Chicken with Fries',
-    imageUrl: 'https://iqknvwaqtdmmtqipacmm.supabase.co/storage/v1/object/public/images/Dynamite%20Chicken%20&%20Fries.webp',
+    imageUrl: 'hhttps://res.cloudinary.com/dsjyjldau/image/upload/v1780947126/Dynamite_Chicken_Fries_nvltnj.webp',
     available: true,
     featured: true,
     formula: 'F-105'
@@ -71,7 +71,7 @@ export const MENU_ITEMS: MenuItem[] = [
     description: 'Wok tossed beef with bold chilli heat.',
     price: 1250,
     category: 'Wok Tossed Beef',
-    imageUrl: 'https://iqknvwaqtdmmtqipacmm.supabase.co/storage/v1/object/public/images/Beef%20Chilli%20Dry%20And%20Fries.webp',
+    imageUrl: 'https://res.cloudinary.com/dsjyjldau/image/upload/v1780947263/Beef_Chilli_Dry_And_Fries_eotiyr.webp',
     available: true,
     formula: 'F-201'
   },
@@ -81,7 +81,7 @@ export const MENU_ITEMS: MenuItem[] = [
     description: 'Savory wok tossed beef with fries.',
     price: 1250,
     category: 'Wok Tossed Beef',
-    imageUrl: 'https://iqknvwaqtdmmtqipacmm.supabase.co/storage/v1/object/public/images/Hendry%20Beef%20&%20Fries.webp',
+    imageUrl: 'https://res.cloudinary.com/dsjyjldau/image/upload/v1780947120/Hendry_Beef_Fries_bozcfk.webp',
     available: true,
     formula: 'F-202'
   },
@@ -91,7 +91,7 @@ export const MENU_ITEMS: MenuItem[] = [
     description: 'Chilli beef paired with garlic sticky rice.',
     price: 1250,
     category: 'Wok Tossed Beef',
-    imageUrl: 'https://iqknvwaqtdmmtqipacmm.supabase.co/storage/v1/object/public/images/Beef%20Chilli%20Dry%20With%20Garlic%20Rice.webp',
+    imageUrl: 'https://res.cloudinary.com/dsjyjldau/image/upload/v1780947187/Beef_Chilli_Dry_With_Garlic_Rice_teocr8.webp',
     available: true,
     formula: 'F-203'
   },
@@ -101,7 +101,7 @@ export const MENU_ITEMS: MenuItem[] = [
     description: 'Balanced hendry flavor served with sticky rice.',
     price: 1250,
     category: 'Wok Tossed Beef',
-    imageUrl: 'https://iqknvwaqtdmmtqipacmm.supabase.co/storage/v1/object/public/images/Hendry%20Beef%20With%20Garlic%20Rice.webp',
+    imageUrl: 'https://res.cloudinary.com/dsjyjldau/image/upload/v1780947115/Hendry_Beef_With_Garlic_Rice_pyx3yi.webp',
     available: true,
     formula: 'F-204'
   },
@@ -112,7 +112,7 @@ export const MENU_ITEMS: MenuItem[] = [
     description: 'Chicken noodles served with 2 pieces of dumplings.',
     price: 1150,
     category: 'Wok Tossed Noodles',
-    imageUrl: 'https://iqknvwaqtdmmtqipacmm.supabase.co/storage/v1/object/public/images/Chicken%20Noodels.webp',
+    imageUrl: 'https://res.cloudinary.com/dsjyjldau/image/upload/v1780947153/Chicken_Noodels_autq0a.webp',
     available: true,
     formula: 'F-301'
   },
@@ -122,7 +122,7 @@ export const MENU_ITEMS: MenuItem[] = [
     description: 'Spicy noodles with 2 pieces of wings.',
     price: 1150,
     category: 'Wok Tossed Noodles',
-    imageUrl: 'https://iqknvwaqtdmmtqipacmm.supabase.co/storage/v1/object/public/images/Szechuan%20Noodles.webp',
+    imageUrl: 'https://res.cloudinary.com/dsjyjldau/image/upload/v1780947099/Szechuan_Noodles_pv9ug4.webp',
     available: true,
     formula: 'F-302'
   },
@@ -132,7 +132,7 @@ export const MENU_ITEMS: MenuItem[] = [
     description: 'Chilli noodles served with 3 pieces of wings.',
     price: 1300,
     category: 'Wok Tossed Noodles',
-    imageUrl: 'https://iqknvwaqtdmmtqipacmm.supabase.co/storage/v1/object/public/images/Chilli%20Noodles.webp',
+    imageUrl: 'https://res.cloudinary.com/dsjyjldau/image/upload/v1780947154/Chilli_Noodles_ee9ro5.webp',
     available: true,
     featured: true,
     formula: 'F-303'
@@ -144,7 +144,7 @@ export const MENU_ITEMS: MenuItem[] = [
     description: 'Served with sticky rice, slightly sweet and balanced.',
     price: 1100,
     category: 'Wok Tossed Chicken With Sticky Rice',
-    imageUrl: 'https://iqknvwaqtdmmtqipacmm.supabase.co/storage/v1/object/public/images/Hendry%20Chicken%20With%20Rice.webp',
+    imageUrl: 'https://res.cloudinary.com/dsjyjldau/image/upload/v1780947116/Hendry_Chicken_With_Rice_zkzqn2.webp',
     available: true,
     formula: 'F-401'
   },
@@ -154,7 +154,7 @@ export const MENU_ITEMS: MenuItem[] = [
     description: 'Served with sticky rice, slightly sweet and balanced.',
     price: 1100,
     category: 'Wok Tossed Chicken With Sticky Rice',
-    imageUrl: 'https://iqknvwaqtdmmtqipacmm.supabase.co/storage/v1/object/public/images/Chicken%20Chilli%20Dry%20With%20Rice.webp',
+    imageUrl: 'https://res.cloudinary.com/dsjyjldau/image/upload/v1780947163/Chicken_Chilli_Dry_With_Rice_fqi7dz.webp',
     available: true,
     formula: 'F-402'
   },
@@ -164,7 +164,7 @@ export const MENU_ITEMS: MenuItem[] = [
     description: 'Signature flavor profile, served with sticky rice.',
     price: 1100,
     category: 'Wok Tossed Chicken With Sticky Rice',
-    imageUrl: 'https://iqknvwaqtdmmtqipacmm.supabase.co/storage/v1/object/public/images/TOSS8%20Special%20Chicken.webp',
+    imageUrl: 'https://res.cloudinary.com/dsjyjldau/image/upload/v1780947092/TOSS8_Special_Chicken_segugk.webp',
     available: true,
     featured: true,
     formula: 'F-403'
@@ -175,7 +175,7 @@ export const MENU_ITEMS: MenuItem[] = [
     description: 'Manchurian chicken paired with garlic sticky rice.',
     price: 1100,
     category: 'Wok Tossed Chicken With Sticky Rice',
-    imageUrl: 'https://iqknvwaqtdmmtqipacmm.supabase.co/storage/v1/object/public/images/Chicken%20Manchuurian%20With%20Rice.webp',
+    imageUrl: 'https://res.cloudinary.com/dsjyjldau/image/upload/v1780947160/Chicken_Manchuurian_With_Rice_eamr35.webp',
     available: true,
     formula: 'F-404'
   },
@@ -185,7 +185,7 @@ export const MENU_ITEMS: MenuItem[] = [
     description: 'Sweet spicy chicken with garlic sticky rice.',
     price: 1200,
     category: 'Wok Tossed Chicken With Sticky Rice',
-    imageUrl: 'https://iqknvwaqtdmmtqipacmm.supabase.co/storage/v1/object/public/images/Kung%20Pao%20Chicken%20(With%20Rice).webp',
+    imageUrl: 'https://res.cloudinary.com/dsjyjldau/image/upload/v1780947104/Kung_Pao_Chicken_With_Rice_nt532d.webp',
     available: true,
     formula: 'F-405'
   },
@@ -196,7 +196,7 @@ export const MENU_ITEMS: MenuItem[] = [
     description: 'Garlic flavored wings with mild spice. (6 pieces)',
     price: 950,
     category: 'Wok Tossed Wings',
-    imageUrl: 'https://iqknvwaqtdmmtqipacmm.supabase.co/storage/v1/object/public/images/Hot%20Garlic%20Wings.webp',
+    imageUrl: 'https://res.cloudinary.com/dsjyjldau/image/upload/v1780947110/Hot_Garlic_Wings_nboe6y.webp',
     available: true,
     formula: 'F-501'
   },
@@ -206,7 +206,7 @@ export const MENU_ITEMS: MenuItem[] = [
     description: 'Spicy, saucy and fully coated. (6 pieces)',
     price: 950,
     category: 'Wok Tossed Wings',
-    imageUrl: 'https://iqknvwaqtdmmtqipacmm.supabase.co/storage/v1/object/public/images/TOSS8%20Chilli%20Wings.webp',
+    imageUrl: 'https://res.cloudinary.com/dsjyjldau/image/upload/v1780947091/TOSS8_Chilli_Wings_xeet9n.webp',
     available: true,
     formula: 'F-502'
   },
@@ -216,7 +216,7 @@ export const MENU_ITEMS: MenuItem[] = [
     description: 'Tangy glaze with slight sweetness. (6 pieces)',
     price: 950,
     category: 'Wok Tossed Wings',
-    imageUrl: 'https://iqknvwaqtdmmtqipacmm.supabase.co/storage/v1/object/public/images/Tamarind%20Wings.webp',
+    imageUrl: 'https://res.cloudinary.com/dsjyjldau/image/upload/v1780947096/Tamarind_Wings_v5gwcq.webp',
     available: true,
     formula: 'F-503'
   },
@@ -227,7 +227,7 @@ export const MENU_ITEMS: MenuItem[] = [
     description: 'Wok tossed sweet and spicy.',
     price: 1050,
     category: 'Wok Tossed Dumplings',
-    imageUrl: 'https://iqknvwaqtdmmtqipacmm.supabase.co/storage/v1/object/public/images/Kung%20Pao%20Duumplings.webp',
+    imageUrl: 'https://res.cloudinary.com/dsjyjldau/image/upload/v1780947102/Kung_Pao_Duumplings_eydmdb.webp',
     available: true,
     formula: 'F-601'
   },
@@ -237,7 +237,7 @@ export const MENU_ITEMS: MenuItem[] = [
     description: 'Dumplings tossed in a light chilli glaze.',
     price: 1050,
     category: 'Wok Tossed Dumplings',
-    imageUrl: 'https://iqknvwaqtdmmtqipacmm.supabase.co/storage/v1/object/public/images/TOSS8%20Chilli%20Dumplings.webp',
+    imageUrl: 'https://res.cloudinary.com/dsjyjldau/image/upload/v1780947091/TOSS8_Chilli_Dumplings_k4oyqm.webp',
     available: true,
     formula: 'F-602'
   },
@@ -248,7 +248,7 @@ export const MENU_ITEMS: MenuItem[] = [
     description: 'Creamy with a light spicy kick.',
     price: 100,
     category: 'Add Ons',
-    imageUrl: 'https://iqknvwaqtdmmtqipacmm.supabase.co/storage/v1/object/public/images/Dynamite%20Sauce.webp',
+    imageUrl: 'https://res.cloudinary.com/dsjyjldau/image/upload/v1780947128/Dynamite_Sauce_qwq6sg.webp',
     available: true,
     formula: 'AO-01'
   },
@@ -258,7 +258,7 @@ export const MENU_ITEMS: MenuItem[] = [
     description: 'Smooth, neutral, easy pairing.',
     price: 100,
     category: 'Add Ons',
-    imageUrl: 'https://iqknvwaqtdmmtqipacmm.supabase.co/storage/v1/object/public/images/House%20Mayo.webp',
+    imageUrl: 'https://res.cloudinary.com/dsjyjldau/image/upload/v1780947107/House_Mayo_ugbw3b.webp',
     available: true,
     formula: 'AO-02'
   },
@@ -269,7 +269,7 @@ export const MENU_ITEMS: MenuItem[] = [
     description: '1 Kung Pao Chicken & Fries • 1 Chicken Manchurian With Rice • 1 Half Litre Drink',
     price: 2100,
     category: 'Deals',
-    imageUrl: 'https://iqknvwaqtdmmtqipacmm.supabase.co/storage/v1/object/public/images/Deal%201.webp',
+    imageUrl: 'https://res.cloudinary.com/dsjyjldau/image/upload/v1780947140/Deal_1_tatnt6.webp',
     available: true,
     featured: true,
     formula: 'DEAL-01'
@@ -280,7 +280,7 @@ export const MENU_ITEMS: MenuItem[] = [
     description: '1 Beef Chilli Dry & Fries • 1 Chicken Noodles • 1 Half Litre Drink',
     price: 2350,
     category: 'Deals',
-    imageUrl: 'https://iqknvwaqtdmmtqipacmm.supabase.co/storage/v1/object/public/images/Deal%202.webp',
+    imageUrl: 'https://res.cloudinary.com/dsjyjldau/image/upload/v1780947140/Deal_2_f9a6lg.webp',
     available: true,
     formula: 'DEAL-02'
   },
@@ -290,7 +290,7 @@ export const MENU_ITEMS: MenuItem[] = [
     description: '1 Chicken Noodles • 1 Kung Pao Dumplings • 1 TOSS8 Chilli Wings • 1 Litre Drink',
     price: 3050,
     category: 'Deals',
-    imageUrl: 'https://iqknvwaqtdmmtqipacmm.supabase.co/storage/v1/object/public/images/Deal%203.webp',
+    imageUrl: 'https://res.cloudinary.com/dsjyjldau/image/upload/v1780947143/Deal_3_kjawp7.webp',
     available: true,
     formula: 'DEAL-03'
   },
@@ -300,7 +300,7 @@ export const MENU_ITEMS: MenuItem[] = [
     description: '1 Kung Pao Chicken & Fries • 1 Chicken Manchurian With Rice • 1 Beef Chilli Dry & Fries • 1 Litre Drink',
     price: 3300,
     category: 'Deals',
-    imageUrl: 'https://iqknvwaqtdmmtqipacmm.supabase.co/storage/v1/object/public/images/Deal%204.webp',
+    imageUrl: 'https://res.cloudinary.com/dsjyjldau/image/upload/v1780947135/Deal_4_wcsvgz.webp',
     available: true,
     formula: 'DEAL-04'
   },
@@ -310,7 +310,7 @@ export const MENU_ITEMS: MenuItem[] = [
     description: '1 Kung Pao Chicken & Fries • 1 Chicken Manchurian With Rice • 1 Beef Chilli Dry & Fries • 1 TOSS8 Chilli Dumplings • 1 1.5 Litre Drink',
     price: 4350,
     category: 'Deals',
-    imageUrl: 'https://iqknvwaqtdmmtqipacmm.supabase.co/storage/v1/object/public/images/Deal%205.webp',
+    imageUrl: 'https://res.cloudinary.com/dsjyjldau/image/upload/v1780947129/Deal_5_y5sng2.webp',
     available: true,
     featured: true,
     formula: 'DEAL-05'
@@ -322,7 +322,7 @@ export const MENU_ITEMS: MenuItem[] = [
     description: '1.5 Litre',
     price: 240,
     category: 'Beverages',
-    imageUrl: 'https://iqknvwaqtdmmtqipacmm.supabase.co/storage/v1/object/public/images/Coke%20Classic.webp',
+    imageUrl: 'https://res.cloudinary.com/dsjyjldau/image/upload/v1780947149/Coke_Classic_au4deq.webp',
     available: true,
     formula: 'B-001'
   },
@@ -332,7 +332,7 @@ export const MENU_ITEMS: MenuItem[] = [
     description: 'Can',
     price: 160,
     category: 'Beverages',
-    imageUrl: 'https://iqknvwaqtdmmtqipacmm.supabase.co/storage/v1/object/public/images/Coke%20Zero%20Sugar.webp',
+    imageUrl: 'https://res.cloudinary.com/dsjyjldau/image/upload/v1780947141/Coke_Zero_Sugar_wc6tgv.webp',
     available: true,
     formula: 'B-002'
   },
@@ -342,7 +342,7 @@ export const MENU_ITEMS: MenuItem[] = [
     description: '1.5 Litre',
     price: 240,
     category: 'Beverages',
-    imageUrl: 'https://iqknvwaqtdmmtqipacmm.supabase.co/storage/v1/object/public/images/Sprite.webp',
+    imageUrl: 'https://res.cloudinary.com/dsjyjldau/image/upload/v1780947100/Sprite_gn2itr.webp',
     available: true,
     formula: 'B-003'
   },
@@ -352,7 +352,7 @@ export const MENU_ITEMS: MenuItem[] = [
     description: '1.5 Litre',
     price: 240,
     category: 'Beverages',
-    imageUrl: 'https://iqknvwaqtdmmtqipacmm.supabase.co/storage/v1/object/public/images/Fanta.webp',
+    imageUrl: 'https://res.cloudinary.com/dsjyjldau/image/upload/v1780947121/Fanta_fszur1.webp',
     available: true,
     formula: 'B-004'
   },
@@ -362,7 +362,7 @@ export const MENU_ITEMS: MenuItem[] = [
     description: 'Large',
     price: 150,
     category: 'Beverages',
-    imageUrl: 'https://iqknvwaqtdmmtqipacmm.supabase.co/storage/v1/object/public/images/Dasani%20WATER.webp',
+    imageUrl: 'https://res.cloudinary.com/dsjyjldau/image/upload/v1780947140/Dasani_WATER_vz1wlw.webp',
     available: true,
     formula: 'B-005'
   }
