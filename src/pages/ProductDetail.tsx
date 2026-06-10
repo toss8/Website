@@ -134,7 +134,7 @@ const ProductDetail = () => {
 
               <button
                 onClick={handleAddToCart}
-                className="flex-grow bg-primary text-white py-4 md:py-0 px-10 rounded-full font-display text-3xl flex items-center justify-center gap-4 hover:scale-[1.02] transition-all transform active:scale-[0.98] shadow-2xl shadow-primary/30 uppercase"
+                className="flex-grow bg-primary text-white py-8 md:py-6 px-10 rounded-full font-display text-3xl flex items-center justify-center gap-4 hover:scale-[1.02] transition-all transform active:scale-[0.98] shadow-2xl shadow-primary/30 uppercase"
               >
                 <ShoppingCart className="w-8 h-8" />
                 ADD TO Cart
