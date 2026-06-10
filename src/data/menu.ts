@@ -59,7 +59,7 @@ export const MENU_ITEMS: MenuItem[] = [
     description: 'Crispy chicken & fries in creamy spicy sauce.',
     price: 1200,
     category: 'Wok Tossed Chicken with Fries',
-    imageUrl: 'hhttps://res.cloudinary.com/dsjyjldau/image/upload/v1780947126/Dynamite_Chicken_Fries_nvltnj.webp',
+    imageUrl: 'https://res.cloudinary.com/dsjyjldau/image/upload/v1780947126/Dynamite_Chicken_Fries_nvltnj.webp',
     available: true,
     featured: true,
     formula: 'F-105'
