@@ -72,13 +72,12 @@ const Home = () => {
         {/* Hero Section */}
         <section className="relative w-full bg-black flex justify-center items-center overflow-hidden">
             <div className="relative w-full z-0">
-                {/* Your original dark cinematic gradient overlay, adjusted to float over the dynamic image */}
-                <div className="absolute inset-0 bg-gradient-to-b from-transparent via-black/20 to-dark z-10 pointer-events-none" />
+                {/* Changed the gradient to just end in a light 20% black opacity */}
+                <div className="absolute inset-0 bg-gradient-to-b from-transparent to-black/20 z-10 pointer-events-none" />
                 
                 <img 
                     src="https://res.cloudinary.com/dsjyjldau/image/upload/v1780947316/Banner_t8vswa.jpg" 
                     alt="Toss8 Hero Banner" 
-                    // w-full and h-auto are the magic classes that force fluid resizing
                     className="w-full h-auto block opacity-90 z-0 relative"
                 />
             </div>
