@@ -48,14 +48,14 @@ function AppContent() {
           </div>
           <div className="border-t border-white/5 pt-8 mt-8">
             <p className="text-gray-500 text-xs tracking-widest uppercase">
-              Made by{' '}
+              Powered By{' '}
               <a 
-                href="https://www.linkedin.com/in/mahd-sadiq/" 
+                href="https://www.instagram.com/alphabusinesses.cc/" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="text-primary hover:text-white transition-colors underline underline-offset-4 decoration-primary"
               >
-                Madi
+                Alpha Businesses
               </a>
             </p>
           </div>
